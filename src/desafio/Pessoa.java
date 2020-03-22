@@ -16,7 +16,7 @@ public class Pessoa {
 		}
 	}
 	
-	String apresentar() {
-		return "olá sou" + nome + " tenho " + peso ; 
+	//String apresentar() {
+	//	return "olá sou" + nome + " tenho " + peso ; 
 	}
-}
+//}
