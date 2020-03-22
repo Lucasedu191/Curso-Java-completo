@@ -40,6 +40,7 @@ public class Fila {
 		//fila.size();
 		//fila.clear();
 		//fila.isEmpty();
+		//fila.contains(...);
 	}
 
 }
