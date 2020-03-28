@@ -10,8 +10,8 @@ public class Compra {
 		this.itens.add(new Item(p, qtde));
 	}
 	void adicionarItem(String nome, double preco, int qtde) {
-		var produto = new Produto(nome, preco);
-		this.itens.add(new Item(produto, qtde));
+		// produto = new Produto(nome, preco);
+		//this.itens.add(new Item(produto, qtde));
 	}
 
 	double obterValorTotal() {
