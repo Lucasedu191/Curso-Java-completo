@@ -13,15 +13,15 @@ public class CarroTeste {
 		c1.acelerar();
 		System.out.println(c1);
 		
-		Ferrari c2 = new Ferrari(400);
-		
-
-		c2.acelerar();
-		System.out.println(c2);
-		c2.acelerar();
-		System.out.println(c2);
-		c2.acelerar();
-		System.out.println(c2);
+//		Ferrari c2 = new Ferrari(400);
+//		c2.ligarTurbo();
+//
+//		c2.acelerar();
+//		System.out.println(c2);
+//		c2.acelerar();
+//		System.out.println(c2);
+//		c2.acelerar();
+//		System.out.println(c2);
 	}
 
 }
