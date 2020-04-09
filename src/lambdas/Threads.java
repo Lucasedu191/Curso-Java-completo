@@ -17,12 +17,12 @@ public class Threads {
 			}
 		};
 		
-		Runnable trabalho3 = () ->{
+		Runnable trabalho3 = () -> {
 			for (int i = 0; i < 100; i++) {
 				System.out.println("Tarefa 03#");
 				try {
 					Thread.sleep(100);
-				}catch(Exception e) {
+				} catch (Exception e) {
 				}
 			}
 		};
