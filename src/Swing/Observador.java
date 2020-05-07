@@ -23,7 +23,7 @@ public class Observador {
 		System.out.println("Evento ocorreu!!!");	
 			
 			});
-		
+		 
 		
 		janela.setVisible(true);
 	}
